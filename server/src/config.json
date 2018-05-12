@@ -1,0 +1,9 @@
+{
+  "host": "xxxxxxxx.test.neoteched.com",
+  "username": "root",
+  "password": "xxxxxxxx",
+  "charset": "utf8mb4",
+  "name": "crm",
+  "max_idle_conns": 10,
+  "max_open_conns": 50
+}
